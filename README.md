@@ -1,4 +1,4 @@
-<h1>Weather App with ReactJS</h1>
+<h1>Weather App using ReactJS</h1>
 
 <h2>Desktop View</h2>
 
